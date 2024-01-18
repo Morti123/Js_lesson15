@@ -1,0 +1,97 @@
+ *{
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+ }
+ /* body{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+ } */
+ body{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+ }
+ /* .el_container{
+     width: 50vw;
+     height: 20vw;
+     display: flex;
+     margin: 0 auto;
+     justify-content: space-between;
+     align-items: center;
+     background-color: rgba(0, 0, 0, 0.301);
+ }
+ .el_container div{
+     width: 10vw;
+     height: 10vw;
+     background-color: red;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     font-size: 2rem;
+ }
+ .info_container{
+     width: 50vw;
+     margin: 0 auto;
+ }
+ p{
+     font-size: 30px;
+ }
+ span{
+     color: red;
+ }
+
+ body{
+     overflow: hidden;
+     margin: 0;
+ }
+ .move{
+     width: 10vw;
+     height: 10vw;
+     background-color: teal;
+     position: absolute;
+     left: 0;
+     right: 0;
+ } */
+ 
+ /* 1 */
+ /* .cont div{
+    height: 10vw;
+    width: 10vw;
+    border: 1px solid red;
+    display: inline-block;
+    transform: scale(1.026);
+ }
+ .cont{
+     width: 31vw;
+     height: 31vw;
+     margin-top: 10vw;
+ }
+ .red{
+     background-color: red;
+ }
+ .pink{
+     background-color: rgba(255, 0, 0, 0.171);
+ } */
+ /* 2 */
+ div{
+     margin-top: 10vw;
+     width: 20vw;
+     height: 20vw;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: hsl(0, 5%, 66%);
+     border: 1px solid black;
+     color: red;
+     font-size: 2rem;
+ }
+ span{
+     color: red;
+     font-size: 2rem;
+ }
+ .white{
+     background-color: white;
+ }
